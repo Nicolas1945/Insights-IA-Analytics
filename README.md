@@ -1,4 +1,7 @@
-📊 Projeto: Insights de Relatório de Vendas usando Prompts de IA
+![Logo do Projeto](img/projeto_teste.png)
+
+# 📊 Insights IA Analytics
+
 📝 Descrição
 Este projeto tem como objetivo analisar relatórios de vendas da GamesShop utilizando prompts estruturados com inteligência artificial (IA). Através da geração de insights estratégicos, buscamos identificar padrões de comportamento de vendas e apoiar a tomada de decisões no negócio.
 
@@ -69,3 +72,7 @@ Leia os arquivos da pasta insights/ para conferir os principais insights obtidos
 
 🙌 Contribuição
 Este projeto foi desenvolvido como parte do desafio de formação na DIO.
+
+
+
+
