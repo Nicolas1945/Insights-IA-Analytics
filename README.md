@@ -14,7 +14,7 @@ Documentar todo o processo de maneira clara e organizada.
 
 Utilizar GitHub como repositório de documentação técnica.
 
-''📂 Estrutura do Repositório''
+📂 Estrutura do Repositório
 bash
 Copiar
 Editar
