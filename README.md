@@ -14,7 +14,7 @@ Documentar todo o processo de maneira clara e organizada.
 
 Utilizar GitHub como repositório de documentação técnica.
 
-📂 Estrutura do Repositório
+''📂 Estrutura do Repositório''
 bash
 Copiar
 Editar
@@ -32,6 +32,7 @@ insights-relatorio-vendas/
 │   └── graficos.png (opcional)
 ├── README.md           # Documento principal do projeto
 └── .gitignore
+
 🛠️ Ferramentas e Tecnologias Utilizadas
 ChatGPT para geração de insights a partir dos prompts.
 
