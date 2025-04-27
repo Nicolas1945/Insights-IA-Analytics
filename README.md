@@ -1,6 +1,7 @@
-![Logo do Projeto](img/projeto_teste.png)
+
 
 # 📊 Insights IA Analytics
+<img alt="Logo Insights IA Analytics" src="img/projeto_teste.png" align="right" width="20%" />
 
 📝 Descrição
 Este projeto tem como objetivo analisar relatórios de vendas da GamesShop utilizando prompts estruturados com inteligência artificial (IA). Através da geração de insights estratégicos, buscamos identificar padrões de comportamento de vendas e apoiar a tomada de decisões no negócio.
