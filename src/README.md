@@ -1,4 +1,4 @@
-📊 Insights de Relatório de Vendas usando Prompts de IA Analytics
+📊 Insights IA Analytics
 
 Análise Avançada de Dados de Vendas com Python e IA
 
